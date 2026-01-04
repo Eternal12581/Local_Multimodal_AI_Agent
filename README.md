@@ -247,10 +247,15 @@ python web.py
 - Web界面无法访问：确保本地端口未被占用，防火墙未拦截，访问地址为 `http://localhost:5001`。
 
 ## 9. 演示视频 (demo video)
+
 <video controls src="assets/video1.mp4" title="Title"></video>
+
 https://github.com/Eternal12581/Local_Multimodal_AI_Agent/blob/main/assets/video1.mp4
+
 https://github.com/user-attachments/assets/af091f51-3a7e-4168-ad6b-67f65c8f7c08
 
 <video controls src="assets/video2.mp4" title="Title"></video>
+
 https://github.com/Eternal12581/Local_Multimodal_AI_Agent/blob/main/assets/video2.mp4
+
 https://github.com/user-attachments/assets/70daf7f0-28b6-4f3f-b133-db018cedd966
